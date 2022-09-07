@@ -1,11 +1,5 @@
 # 基于SSM的超市订单管理系统
 
-## 获取方式
-
-扫描下方，回复关键词  ：**超市2** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
 ## 1、项目介绍
 
 基于SSM的超市订单管理系统2中，具有订单管理、供应商管理和用户管理三个功能
@@ -49,11 +43,4 @@
 
 ![添加用户](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208021317758.jpg)
 
-## 5、获取方式
-
-扫描下方，回复关键词  ：**超市2** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
